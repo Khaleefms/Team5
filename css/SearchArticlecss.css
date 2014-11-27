@@ -1,0 +1,16 @@
+.myTable { 
+    width:70%;
+    background-color:#EFF5FB;
+    border-collapse:collapse; 
+    font-family: Georgia;
+}
+.myTable th { 
+    background-color:#0040FF;
+    color:white;
+    width:19%; 
+}
+.myTable td, .myTable th { 
+    padding:5px;
+    border:1px solid #000; 
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2014, 7:22:19 PM
+    Author     : HUIXUAN
+*/
+h3{
+    font-family: Corben;
+    font-size: 400%;
+    color: #0101DF;
+}
+
+h1{
+    font-weight: bold;
+    
+}
+
+.container1{
+    border: 2px solid;
+    border-radius: 25px;
+    background-color: graytext;
+}
+
+#button{
+    padding: 0 0 0 2%;
+}
+
+h4{
+    font-size: 16;
+    font-family: cursive;
+}
+
+
+

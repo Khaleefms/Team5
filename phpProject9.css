@@ -1,0 +1,80 @@
+body{
+     background-image:url("images/wp3.jpg");
+}
+#sign_inform{
+    border-style: solid; 
+    border-width: 5px; 
+    border-color: #f03434;
+    top: 15%;
+    left: 30%;
+    background:#fff; 
+    width: 450px;
+    height: 250px;
+}
+#sign_upform{
+    border-style: solid; 
+    border-width: 5px;
+    top: 15%;
+    left: 30%;  
+    background:#fff; 
+    width: 450px;
+    height: 350px;
+}
+
+.jumbotron{
+    background: url("images/Cloud_banner.jpg") center left; // place banner pic here.
+    background-size: 100%;
+    width:100%;
+    height: 400px;
+    top:0;
+    left:0;
+    color: white;
+    text-shadow: white 0.3em 0.3em 0.3em;
+}
+#indexcontainer{
+/*    background-color: #ff6633;*/
+    margin-left: 5%;
+}
+.md-col-6{
+    float: left;
+}
+
+// nav bar
+#sidenav{
+    background-color:cornsilk;
+}
+#mainnavbar{
+    float: left;
+}
+#sidenavheader{
+    background-color: #999999;
+}
+//banner
+#mainheader{
+    width: 85%;
+}
+
+// letter bold when hover over
+a{
+  letter-spacing: 0.05px
+}
+
+a:hover, a:focus {
+  font-weight: bold;
+  letter-spacing: 0
+}
+#loginpage{
+    float: left;
+    margin-left: 5%;
+    background-color: white;
+    height: 260px;
+    width: 50%;
+}
+#registerpage{
+    float: left;
+    margin-left: 5%;
+    background-color: white;
+    height: 460px;
+    width: 50%;
+}
+
